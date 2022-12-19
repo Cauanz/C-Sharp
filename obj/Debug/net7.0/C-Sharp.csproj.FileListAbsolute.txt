@@ -1,0 +1,15 @@
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/bin/Debug/net7.0/C-Sharp
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/bin/Debug/net7.0/C-Sharp.deps.json
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/bin/Debug/net7.0/C-Sharp.runtimeconfig.json
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/bin/Debug/net7.0/C-Sharp.dll
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/bin/Debug/net7.0/C-Sharp.pdb
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/C-Sharp.csproj.AssemblyReference.cache
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/C-Sharp.AssemblyInfoInputs.cache
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/C-Sharp.AssemblyInfo.cs
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/C-Sharp.csproj.CoreCompileInputs.cache
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/C-Sharp.dll
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/refint/C-Sharp.dll
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/C-Sharp.pdb
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/C-Sharp.genruntimeconfig.cache
+/home/c4u4n-linux/Documentos/GitHub/C-Sharp/obj/Debug/net7.0/ref/C-Sharp.dll
